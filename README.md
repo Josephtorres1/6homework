@@ -4,6 +4,9 @@ Developers are often tasked with retrieving data from another application's API 
 
 Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. The documentation includes a section called "How to start" that will provide basic setup and usage instructions. Use `localStorage` to store any persistent data.
 
+([apikey]): 4766d1ec478d4947b8d2f92100a76684
+[API-call]: api.openweathermap.org/data/2.5/weather?q={city name},{state code},{country code}&appid={your api key}
+
 ## User Story
 
 ```
@@ -38,9 +41,10 @@ The following image demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+- The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
+---
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
