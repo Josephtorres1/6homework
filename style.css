@@ -2,7 +2,8 @@
   background-color: #fefefe;
   border: 1px solid #e6e6e6;
   padding: 1rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
+  max-width: 150px;
 }
 
 .weather-thumbnail {
@@ -24,6 +25,11 @@
   display: block;
   font-family: "Open sans", sans-serif;
   font-size: 0.85rem;
+}
+
+.five-day-forecast {
+  display: flex;
+  flex-direction: row;
 }
 
 .input-group-rounded .input-group-field {
